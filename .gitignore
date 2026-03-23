@@ -1,0 +1,28 @@
+# Environment & secrets
+.env
+.mcp.json
+
+# OS files
+.DS_Store
+
+# Temp files
+.claude-prompt.txt
+
+# Dependencies
+node_modules/
+.npm-cache/
+venv/
+
+# Third-party tools (install separately)
+n8n-mcp/
+n8n-skills/
+
+# Python
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+
+# Git backup
+.git-backup/
